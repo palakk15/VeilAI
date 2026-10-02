@@ -1,0 +1,6 @@
+node_modules
+dist
+*.log
+!demo-files/03_payment_card_log.log
+.vite
+coverage

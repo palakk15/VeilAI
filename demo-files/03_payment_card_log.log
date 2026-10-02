@@ -1,0 +1,7 @@
+2026-09-20 10:02:11 INFO  checkout started order=ORD-55012
+2026-09-20 10:02:14 DEBUG card_number=4111 1111 1111 1111 exp=12/29
+2026-09-20 10:05:40 DEBUG card_number=5555555555554444 exp=08/28
+2026-09-20 10:07:02 DEBUG card_number=3782 822463 10005 exp=03/27
+2026-09-20 10:09:55 WARN  retry for order=ORD-55013
+2026-09-20 10:10:01 DEBUG card_number=4111 1111 1111 1112 exp=01/30   (typo, fails Luhn: should NOT match)
+2026-09-20 10:12:30 INFO  checkout completed
