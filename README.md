@@ -1,4 +1,4 @@
-# VeilAI: offline privacy firewall prototype
+# VeilAI: offline privacy firewall prototype.
 
 A clickable demo of VeilAI, a **local AI privacy firewall** that sits between an employee and an external AI service:
 
